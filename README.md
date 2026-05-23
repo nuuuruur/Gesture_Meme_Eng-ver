@@ -4,7 +4,7 @@ Proyecto de visión por computadora que detecta gestos faciales y de manos en ti
 
 ## Tecnologías
 
-- **Python 3.8 - 3.11**
+- **Python 3.10.0**
 - **OpenCV**
 - **MediaPipe**
 - **NumPy**
